@@ -93,17 +93,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="submit.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="submit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/submit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.6163142">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RigesterRunTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RigesterRunTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RigesterRunTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -157,7 +157,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/RigesterTest.java" />
         <option value="C:/IDEA Project/IdeaProjects/CucumberPOM/src/test/java/StepDef.java" />
-        <option value="$PROJECT_DIR$/src/main/java/submit.java" />
         <option value="$PROJECT_DIR$/src/main/java/Basemain.java" />
         <option value="$PROJECT_DIR$/src/main/java/verifyAC.java" />
         <option value="$PROJECT_DIR$/src/test/resources/Registration.feature" />
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Registration.java" />
         <option value="$PROJECT_DIR$/src/main/java/Logout.java" />
         <option value="$PROJECT_DIR$/src/test/java/RigesterRunTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/submit.java" />
       </list>
     </option>
   </component>
@@ -1190,14 +1190,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/submit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Registration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1218,6 +1210,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/submit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6163142">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>

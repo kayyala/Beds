@@ -1,0 +1,105 @@
+[
+  {
+    "id": "create-new-registration",
+    "description": "In order to Create a  new registration\r\nAs a User\r\nI want to create new registriation\r\nSo that i can get access in my acount",
+    "name": "create new registration",
+    "keyword": "Feature",
+    "line": 1,
+    "elements": [
+      {
+        "id": "create-new-registration;create-new-registration",
+        "before": [
+          {
+            "result": {
+              "duration": 33771065963,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "create new registration",
+        "keyword": "Scenario",
+        "line": 6,
+        "steps": [
+          {
+            "result": {
+              "duration": 583877960,
+              "status": "passed"
+            },
+            "name": "i am  navigative to Dream web page",
+            "keyword": "Given ",
+            "line": 7,
+            "match": {
+              "location": "MyStepdefs.navigativedreampage()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1173898705,
+              "status": "passed"
+            },
+            "name": "i go to my acount and click on registration page",
+            "keyword": "And ",
+            "line": 8,
+            "match": {
+              "location": "MyStepdefs.iGoToMyAcountAndClickOnRegistrationPage()"
+            }
+          },
+          {
+            "result": {
+              "duration": 7915442625,
+              "status": "passed"
+            },
+            "name": "i enter all field in registration",
+            "keyword": "When ",
+            "line": 9,
+            "match": {
+              "location": "MyStepdefs.iEnterAllFieldInRegistration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6612779429,
+              "status": "passed"
+            },
+            "name": "i click on submit button",
+            "keyword": "And ",
+            "line": 10,
+            "match": {
+              "location": "MyStepdefs.iClickOnSubmitButton()"
+            }
+          },
+          {
+            "result": {
+              "duration": 366767655,
+              "status": "passed"
+            },
+            "name": "i should able to see my acount succefully",
+            "keyword": "Then ",
+            "line": 12,
+            "match": {
+              "location": "MyStepdefs.iShouldAbleToSeeMyAcountSuccefully()"
+            }
+          },
+          {
+            "result": {
+              "duration": 4658976896,
+              "status": "passed"
+            },
+            "name": "i click on logout",
+            "keyword": "And ",
+            "line": 13,
+            "match": {
+              "location": "MyStepdefs.iClickOnLogout()"
+            }
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "uri": "Registration.feature"
+  }
+]
